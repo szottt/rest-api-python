@@ -1,0 +1,26 @@
+
+hoteis = [
+
+            {
+                'hotel_id':'alpha',
+                'nome':'Alpha Hotel',
+                'estrelas':4.4,
+                'diaria':420.35,
+                'cidade':'Rio de Janeiro'
+            },
+            {
+                'hotel_id':'bravo',
+                'nome':'Bravo Hotel',
+                'estrelas':4.2,
+                'diaria':470.15,
+                'cidade':'São Paulo'
+            },
+            {
+                'hotel_id':'charlie',
+                'nome':'Charlie Hotel',
+                'estrelas':3.8,
+                'diaria':390.20,
+                'cidade':'Santa Catarina'
+            }
+
+]
